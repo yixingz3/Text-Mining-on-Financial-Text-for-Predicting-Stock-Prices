@@ -1,3 +1,13 @@
-# CourseProject
+# Text Mining on Financial Text for Predicting Stock Prices
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+## Course Project for CS410 FAll 2022
+
+### Yixing Zheng (yixingz3@illinois.edu) - team captain
+### Zerui Tian (zeruit2@illinois.edu)
+
+#### [Project proposal](www.google.com)
+
+#### Status Report(Pending)
+
+#### Final Report(Pending)
+
