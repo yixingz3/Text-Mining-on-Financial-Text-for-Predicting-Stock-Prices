@@ -7,7 +7,7 @@
 
 #### [Project proposal](https://github.com/yixingz3/Text-Mining-on-Financial-Text-for-Predicting-Stock-Prices/blob/main/CS%20410%20Project%20Proposal.pdf)
 
-#### Status Report(Pending)
+#### [Status Report](https://github.com/yixingz3/Text-Mining-on-Financial-Text-for-Predicting-Stock-Prices/blob/main/CS%20410%20Project%20Status%20Report.pdf)
 
 #### Final Report(Pending)
 
