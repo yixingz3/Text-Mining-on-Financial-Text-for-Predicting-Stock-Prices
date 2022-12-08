@@ -56,7 +56,7 @@ For the process, we have followed the following steps:
 
 ### How to run it?
 
-#### [The demo presentation is shared in Google Drive and needs Illinois credential to access](google.com)
+#### [The demo presentation is shared in Google Drive and needs Illinois credential to access](https://drive.google.com/file/d/11xNdViTfy1zxQTRXV_NHI8cqkWWyshbY/view?usp=share_link)
 1. Download/copy these files `TIS_Project.ipynb (code)`, `410_dataset.csv (dataset)` along with `lstm_model.pth and bert_model.pth (trained models)` from [our Google Drive](https://drive.google.com/drive/folders/1su2LbMR0FD3CYRQrWV0wl9af0VUp95OZ?usp=sharing) - you can download the folder and upload all of them into your Illinois Google Drive
     - make sure they are placed in the same directory, ideally ```/content/drive/MyDrive/CS410Project```
 2. Open TIS_Project.ipynb from Google Drive using [Google Colab](https://colab.research.google.com/)
